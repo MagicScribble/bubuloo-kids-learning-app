@@ -1,8 +1,9 @@
 <head>
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
----
 
+---
+Kids Drawing & Puzzle App
 ---
 
 # 🎨 Kids Drawing & Puzzle Game 3+
