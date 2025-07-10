@@ -1,3 +1,30 @@
-.github-button {
-  display: none !important;
+body {
+  font-family: "Segoe UI", sans-serif;
+  background-color: #f5faff;
+  color: #333;
+  padding: 2rem;
+  max-width: 720px;
+  margin: auto;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  color: #0099cc;
+}
+
+a {
+  color: #e67e22;
+  text-decoration: none;
+  border-bottom: 1px dashed #e67e22;
+}
+
+a:hover {
+  color: #d35400;
+  border-bottom-style: solid;
+}
+
+code {
+  background: #eef;
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
 }
