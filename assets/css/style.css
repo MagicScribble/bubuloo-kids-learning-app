@@ -11,12 +11,13 @@ body {
   min-height: 100vh;
 }
 
-/* Content container for layout control */
 .container {
   max-width: 720px;
   margin: auto;
   padding: 2rem;
   line-height: 1.6;
+  background: rgba(255, 255, 255, 0.9); /* Optional: white background for text contrast */
+  border-radius: 1rem;
 }
 
 h1, h2, h3 {
