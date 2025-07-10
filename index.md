@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="assets/css/style.css">
 ---
 title: Kids Drawing & Puzzle App
 layout: default
