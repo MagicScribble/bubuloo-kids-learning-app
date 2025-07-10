@@ -1,4 +1,7 @@
-<link rel="stylesheet" href="assets/css/style.css">
+---
+title: Kids Drawing & Puzzle App
+layout: default
+---
 
 # 🎨 Kids Drawing & Puzzle Game 3+
 
@@ -39,3 +42,5 @@ If you love the app and want to support development:
 
 No ads. No tracking. No data collection.  
 [Read the Privacy Policy]([privacy.md](https://magicscribble.github.io/privacy-policy/))
+
+<link rel="stylesheet" href="assets/css/style.css">
