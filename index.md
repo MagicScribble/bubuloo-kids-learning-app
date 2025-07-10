@@ -1,7 +1,3 @@
----
-title: Kids Drawing & Puzzle App
-layout: default
----
 
 # 🎨 Kids Drawing & Puzzle Game 3+
 
