@@ -20,25 +20,25 @@ A calm, creative app for toddlers and preschoolers (ages 2–5) — 100% ad-free
 
 ## 📲 Get the App
 
-➡️ [Download on iOS](https://apps.apple.com/app/idYOUR_APP_ID)
+➡️ [Download on iOS](https://apps.apple.com/app/id6747248309)
 
 ---
 
 ## ☕ Support My Work
 
 If you love the app and want to support development:  
-[Buy Me a Coffee](https://www.buymeacoffee.com/YOURNAME)
+[Buy Me a Coffee](https://buymeacoffee.com/magicscribble)
 
 ---
 
 ## 📬 Contact
 
-📧 hello@yourdomain.com  
-🐞 Found a bug? [Open an issue](https://github.com/YOURNAME/kids-drawing-app/issues)
+📧 dentin-97.aniline@icloud.com 
+🐞 Found a bug? [Open an issue](https://magicscribble.github.io/support/)
 
 ---
 
 ## 🔐 Privacy
 
 No ads. No tracking. No data collection.  
-[Read the Privacy Policy](privacy.md)
+[Read the Privacy Policy]([privacy.md](https://magicscribble.github.io/privacy-policy/))
