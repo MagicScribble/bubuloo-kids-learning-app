@@ -43,4 +43,6 @@ If you love the app and want to support development:
 No ads. No tracking. No data collection.  
 [Read the Privacy Policy]([privacy.md](https://magicscribble.github.io/privacy-policy/))
 
-<link rel="stylesheet" href="assets/css/style.css">
+<head>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
