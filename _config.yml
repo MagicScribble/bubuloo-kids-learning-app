@@ -1,3 +1,2 @@
-title: Kids Drawing & Puzzle Game 3+
-description: A gentle screen-time experience for toddlers
-#theme: null  # disable default theme
+markdown: kramdown
+theme: null
