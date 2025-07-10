@@ -1,11 +1,6 @@
 ---
 title: Kids Drawing & Puzzle App
 layout: default
-<style>
-.github-button {
-  display: none !important;
-}
-</style>
 ---
 
 # 🎨 Kids Drawing & Puzzle Game 3+
