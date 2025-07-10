@@ -1,7 +1,7 @@
 <head>
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
-
+---
 # 🎨 Kids Drawing & Puzzle Game 3+
 
 A calm, creative app for toddlers and preschoolers (ages 2–5) — 100% ad-free, offline-friendly, and designed for screen-time-positive play.
