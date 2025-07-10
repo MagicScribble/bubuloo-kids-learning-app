@@ -1,2 +1,8 @@
 title: Kids Drawing App
 theme: jekyll-theme-cayman
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      css: /assets/css/style.css
