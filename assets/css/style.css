@@ -16,7 +16,7 @@ body {
   margin: auto;
   padding: 2rem;
   line-height: 1.6;
-  background: rgba(220, 236, 252, 0.5); /* Optional: white background for text contrast */
+  background: rgba(220, 236, 252, 0.5); 
   border-radius: 1rem;
 }
 
@@ -39,4 +39,27 @@ code {
   background: #eef;
   padding: 0.2em 0.4em;
   border-radius: 4px;
+}
+
+/* Matte glass textarea style */
+textarea {
+  background: rgba(255, 255, 255, 0.3);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  border-radius: 12px;
+  padding: 1rem;
+  color: #333;
+  font-family: "Segoe UI", sans-serif;
+  font-size: 1rem;
+  resize: vertical;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  outline: none;
+  transition: background-color 0.3s ease;
+}
+
+textarea:focus {
+  background: rgba(255, 255, 255, 0.4);
+  border-color: rgba(255, 255, 255, 0.6);
+  box-shadow: 0 0 10px rgba(0, 153, 204, 0.5);
 }
