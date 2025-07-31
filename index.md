@@ -2,10 +2,6 @@
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
-
-Bubuloo kids learning games
----
-
 # 🎨 Bubuloo Kids Learning Games
 
 Hi! I’m an indie developer and illustrator passionate about building calm, ad-free digital spaces for kids.
