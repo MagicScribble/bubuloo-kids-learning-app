@@ -8,7 +8,9 @@ Hi! I’m an indie developer and illustrator passionate about building calm, ad-
 
 I create kids educational applications with one goal: to give toddlers and preschoolers a safe, creative screen-time experience — one that parents can feel good about.
 
-Thank you for being part of this journey 💛
+Bubuloo is a growing collection of educational games designed for toddlers and preschoolers — focused on safe, creative, and meaningful screen time.
+
+Whether it’s exploring sounds, practicing memory, or learning new words — each Bubuloo game is crafted with care to spark imagination and gentle discovery.
 
 ---
 
@@ -22,6 +24,12 @@ Thank you for being part of this journey 💛
 
 If you love the app and want to support development:  
 [Buy Me a Coffee](https://buymeacoffee.com/magicscribble)
+
+---
+
+💛 Thanks for Supporting Indie Development
+
+Every download, share, and kind word helps me build better experiences for families everywhere.
 
 ---
 
