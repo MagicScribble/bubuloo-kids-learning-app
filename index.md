@@ -3,12 +3,12 @@
 </head>
 
 
-Kids Drawing & Puzzle App
+Bubuloo kids learning games
 ---
 
-# 🎨 Kids Drawing & Puzzle Game 3+
+# 🎨 Kids Learning Games
 
-A calm, creative app for toddlers and preschoolers (ages 2–5) — 100% ad-free, offline-friendly, and designed for screen-time-positive play.
+A calm, creative apps for toddlers and preschoolers (ages 2–5) — 100% ad-free, offline-friendly, and designed for screen-time-positive play.
 
 ---
 
