@@ -12,15 +12,6 @@ A calm, creative apps for toddlers and preschoolers (ages 2–5) — 100% ad-fre
 
 ---
 
-## ✨ Features
-
-- Scratch art, drag-and-drop puzzles, and free drawing
-- Coloring book with animals, shapes, letters & more
-- Gentle sound design, large buttons, no ads, no tracking
-- Great for quiet time, travel, or creative breaks
-
----
-
 ## 📲 Get the App
 
 ➡️ [Download on iOS](https://apps.apple.com/app/id6747248309)
