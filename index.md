@@ -4,7 +4,7 @@
 
 # 🎨 Bubuloo Kids Learning Games
 
-Hi! I’m an indie developer and illustrator passionate about building calm, ad-free digital spaces for kids.
+Hi! My name is Olena. I’m an indie developer and illustrator passionate about building calm, ad-free digital spaces for kids.
 
 Bubuloo is my ongoing collection of handcrafted educational apps for toddlers and preschoolers — designed to turn screen time into something gentle, playful, and meaningful.
 
