@@ -1,1 +1,1 @@
-# kids-drawing-app
+# kids-learning-app
