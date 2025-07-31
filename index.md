@@ -8,7 +8,13 @@ Bubuloo kids learning games
 
 # 🎨 Kids Learning Games
 
-A calm, creative apps for toddlers and preschoolers (ages 2–5) — 100% ad-free, offline-friendly, and designed for screen-time-positive play.
+Hi! I’m an indie developer and illustrator passionate about building calm, ad-free digital spaces for kids.
+
+I create kids educational applications with one goal: to give toddlers and preschoolers a safe, creative screen-time experience — one that parents can feel good about.
+
+No ads. No tracking. No noisy overstimulation. Just gentle fun.
+
+Thank you for being part of this journey 💛
 
 ---
 
