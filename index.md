@@ -6,11 +6,9 @@
 
 Hi! I’m an indie developer and illustrator passionate about building calm, ad-free digital spaces for kids.
 
-I create kids educational applications with one goal: to give toddlers and preschoolers a safe, creative screen-time experience — one that parents can feel good about.
+Bubuloo is my ongoing collection of handcrafted educational apps for toddlers and preschoolers — designed to turn screen time into something gentle, playful, and meaningful.
 
-Bubuloo is a growing collection of educational games designed for toddlers and preschoolers — focused on safe, creative, and meaningful screen time.
-
-Whether it’s exploring sounds, practicing memory, or learning new words — each Bubuloo game is crafted with care to spark imagination and gentle discovery.
+Each game is built with care to encourage creativity, focus, and a sense of discovery — all in a safe digital space that parents can feel good about.
 
 ---
 
