@@ -12,8 +12,6 @@ Hi! I’m an indie developer and illustrator passionate about building calm, ad-
 
 I create kids educational applications with one goal: to give toddlers and preschoolers a safe, creative screen-time experience — one that parents can feel good about.
 
-No ads. No tracking. Just gentle fun.
-
 Thank you for being part of this journey 💛
 
 ---
