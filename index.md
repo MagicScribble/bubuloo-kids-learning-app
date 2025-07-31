@@ -10,6 +10,13 @@ Bubuloo is my ongoing collection of handcrafted educational apps for toddlers an
 
 Each game is built with care to encourage creativity, focus, and a sense of discovery — all in a safe digital space that parents can feel good about.
 
+
+---
+
+💛 Thanks for Supporting Indie Development
+
+Every download, share, and kind word helps me build better experiences for families everywhere.
+
 ---
 
 ## 📲 Get the App
@@ -22,12 +29,6 @@ Each game is built with care to encourage creativity, focus, and a sense of disc
 
 If you love the app and want to support development:  
 [Buy Me a Coffee](https://buymeacoffee.com/magicscribble)
-
----
-
-💛 Thanks for Supporting Indie Development
-
-Every download, share, and kind word helps me build better experiences for families everywhere.
 
 ---
 
