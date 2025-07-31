@@ -6,7 +6,7 @@
 Bubuloo kids learning games
 ---
 
-# 🎨 Kids Learning Games
+# 🎨 Bubuloo Kids Learning Games
 
 Hi! I’m an indie developer and illustrator passionate about building calm, ad-free digital spaces for kids.
 
