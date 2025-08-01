@@ -44,3 +44,8 @@ If you love the app and want to support development:
 No ads. No tracking. No data collection.  
 [Read the Privacy Policy]([privacy.md](https://magicscribble.github.io/privacy-policy/))
 
+---
+
+Music by AudioCoffee
+https://www.audiocoffee.net/
+
