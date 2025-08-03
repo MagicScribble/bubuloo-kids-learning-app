@@ -46,5 +46,7 @@ No ads. No tracking. No data collection.
 
 ---
 
-🎵 The amazing music in Bubuloo was created by AudioCoffee. 
+🎵 The amazing music in Bubuloo was created by a wonderful composer AudioCoffee. 
 If you love the sound, you can find more at [audiocoffee.net](https://www.audiocoffee.net/)
+
+
