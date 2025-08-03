@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
-# 🎨 Bubuloo Kids Learning Games
+# Bubuloo Kids Learning Games
 
 <a href="https://apps.apple.com/app/id6747248309" target="_blank">
 <img src="https://github.com/user-attachments/assets/e8d73fed-af1a-48ee-b701-ec371779e549" alt="start dino page" width="100" height="100" /> 
@@ -22,7 +22,7 @@ Every download, share, and kind word helps me build better experiences for famil
 
 ---
 
-## 📲 Get the App
+## Get the App
 
 <a href="https://apps.apple.com/app/id6747248309" target="_blank">
   <img width="95" height="95" alt="image" src="https://github.com/user-attachments/assets/5e0a5a66-d6dd-4936-a9f1-e76a5378129c" />
@@ -43,14 +43,14 @@ If you love the app and want to support development:
 
 ---
 
-## 📬 Contact
+## Contact
 
 📧 dentin-97.aniline@icloud.com 
 🐞 Found a bug? [Open an issue](https://magicscribble.github.io/support/)
 
 ---
 
-## 🔐 Privacy
+## Privacy
 
 No ads. No tracking. No data collection.  
 [Read the Privacy Policy]([privacy.md](https://magicscribble.github.io/privacy-policy/))
