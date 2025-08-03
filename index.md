@@ -17,6 +17,28 @@ Each game is built with care to encourage creativity, focus, and a sense of disc
 
 Every download, share, and kind word helps me build better experiences for families everywhere.
 
+<style>
+  .glow-button {
+    display: inline-block;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 0 0 transparent;
+    transition: box-shadow 0.3s ease, transform 0.2s ease;
+  }
+
+  .glow-button:hover {
+    box-shadow: 0 0 15px 5px rgba(255, 165, 0, 0.6); /* orange glow */
+    transform: scale(1.05);
+  }
+
+  .glow-button img {
+    display: block;
+    width: 100px;
+    height: 100px;
+    border-radius: 12px;
+  }
+</style>
+
 <a href="https://apps.apple.com/app/id6747248309" target="_blank" style="text-decoration: none;">
   <img src="https://github.com/user-attachments/assets/e8d73fed-af1a-48ee-b701-ec371779e549" alt="Start screen: Dino illustration" width="100" height="100" />
 </a>
