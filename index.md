@@ -6,7 +6,7 @@
   font-family: 'Comic Sans MS', 'Chalkboard SE', 'Arial Rounded MT Bold', cursive;
   font-size: 2.5em;
   color: #11bbd1;
-  text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
   font-weight: bold;
   margin-bottom: 20px;
 ">
