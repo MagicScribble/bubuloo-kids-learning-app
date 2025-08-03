@@ -2,7 +2,8 @@
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
-# Bubuloo Kids Learning Games
+# **Bubuloo Kids Learning Games**
+
 
 Hi! My name is Olena. I’m an indie developer and illustrator passionate about building calm, ad-free digital spaces for kids.
 
