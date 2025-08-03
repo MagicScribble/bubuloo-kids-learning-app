@@ -46,6 +46,5 @@ No ads. No tracking. No data collection.
 
 ---
 
-Music by AudioCoffee
-https://www.audiocoffee.net/
-
+🎵 The amazing music in Bubuloo was created by AudioCoffee. 
+If you love the sound, you can find more at [audiocoffee.net](https://www.audiocoffee.net/)
