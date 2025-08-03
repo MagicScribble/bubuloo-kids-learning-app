@@ -22,7 +22,7 @@ Every download, share, and kind word helps me build better experiences for famil
 ## 📲 Get the App
 
 <a href="https://apps.apple.com/app/id6747248309" target="_blank">
-  <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/11778fda-eff0-475d-95af-b0b19460b23d" />
+  <img width="95" height="95" alt="image" src="https://github.com/user-attachments/assets/5e0a5a66-d6dd-4936-a9f1-e76a5378129c" />
 </a>
 
 **Bubuloo kids activity book 3–5**
