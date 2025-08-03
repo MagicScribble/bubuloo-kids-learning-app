@@ -1,7 +1,6 @@
 <a href="https://apps.apple.com/app/id6747248309" target="_blank">
   <img src="https://github.com/user-attachments/assets/e8d73fed-af1a-48ee-b701-ec371779e549" alt="start dino page" width="100" height="100" />
 </a>
-**Bubuloo Kids Learning Games**
 
 # Bubuloo Kids Learning Games
 
