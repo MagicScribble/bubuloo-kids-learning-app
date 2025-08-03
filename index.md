@@ -2,7 +2,7 @@
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
-<h1 align="center" style="color: orange; font-family: 'Comic Sans MS', cursive;">
+# <h1 align="center" style="color: orange; font-family: 'Comic Sans MS', cursive;">
   <strong>Bubuloo Kids Learning Games</strong>
 </h1>
 
