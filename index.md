@@ -46,7 +46,7 @@ If you love the app and want to support development:
 
 ## 📬 Contact
 
-📧 dentin-97.aniline@icloud.com 
+📧 dentin-97.aniline@icloud.com
 🐞 Found a bug? [Open an issue](https://magicscribble.github.io/support/)
 
 ---
