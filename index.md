@@ -16,7 +16,7 @@ Each game is built with care to encourage creativity, focus, and a sense of disc
 
 ---
 
-💖 Thanks for Supporting Indie Development
+💚 Thanks for Supporting Indie Development
 
 Every download, share, and kind word helps me build better experiences for families everywhere.
 
