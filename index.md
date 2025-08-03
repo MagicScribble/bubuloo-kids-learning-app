@@ -2,7 +2,9 @@
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
-# **Bubuloo Kids Learning Games**
+<h1 align="center" style="color: orange; font-family: 'Comic Sans MS', cursive;">
+  <strong>Bubuloo Kids Learning Games</strong>
+</h1>
 
 
 Hi! My name is Olena. I’m an indie developer and illustrator passionate about building calm, ad-free digital spaces for kids.
