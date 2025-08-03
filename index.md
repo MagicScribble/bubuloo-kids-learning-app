@@ -1,4 +1,6 @@
-
+<head>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
 
 # Bubuloo Kids Learning Games
 
