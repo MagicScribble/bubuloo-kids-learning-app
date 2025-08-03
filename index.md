@@ -18,7 +18,7 @@ Each game is built with care to encourage creativity, focus, and a sense of disc
 Every download, share, and kind word helps me build better experiences for families everywhere.
 
 <a href="https://apps.apple.com/app/id6747248309" target="_blank">
-  <img src="https://github.com/user-attachments/assets/e8d73fed-af1a-48ee-b701-ec371779e549" alt="start dino page" width="100" height="100" />
+  <img src="https://github.com/user-attachments/assets/e8d73fed-af1a-48ee-b701-ec371779e549" alt="Start screen: Dino illustration" width="100" height="100" />
 </a>
 
 ---
@@ -26,7 +26,7 @@ Every download, share, and kind word helps me build better experiences for famil
 ## Get the App
 
 <a href="https://apps.apple.com/app/id6747248309" target="_blank">
-  <img width="95" height="95" alt="image" src="https://github.com/user-attachments/assets/5e0a5a66-d6dd-4936-a9f1-e76a5378129c" />
+  <img width="95" height="95" alt="game image" src="https://github.com/user-attachments/assets/5e0a5a66-d6dd-4936-a9f1-e76a5378129c" />
 </a>
 
 🦕
