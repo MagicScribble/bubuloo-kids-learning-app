@@ -21,7 +21,7 @@ Every download, share, and kind word helps me build better experiences for famil
 
 ## 📲 Get the App
 
-**Bubuloo kids activity book 3-5:**
+Bubuloo kids activity book 3-5:
 ➡️ [Download on iOS](https://apps.apple.com/app/id6747248309)
 
 ---
