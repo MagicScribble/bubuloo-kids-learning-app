@@ -32,7 +32,7 @@ a {
 
 a:hover {
   color: #d35400;
-  border-bottom-style: solid;
+  text-shadow: 0 0 6px rgba(255, 165, 0, 0.5);
 }
 
 code {
