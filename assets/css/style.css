@@ -18,7 +18,7 @@ body {
   line-height: 1.6;
   background: linear-gradient(
     to bottom right,
-    rgba(241, 232, 255, 0.7),
+    rgba(241, 232, 255, 0.7), 
     rgba(246, 240, 255, 0.7)
   );
   border-radius: 1rem;
