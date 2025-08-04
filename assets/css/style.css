@@ -16,8 +16,9 @@ body {
   margin: auto;
   padding: 2rem;
   line-height: 1.6;
-  background: rgba(160, 233, 224, 0.7); /* 240, 247, 255, 0.7); */
+  background: rgba(160, 233, 224, 0.7);
   border-radius: 1rem;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
 }
 
 h1, h2, h3 {
