@@ -54,11 +54,13 @@ textarea {
   resize: vertical;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   outline: none;
-  transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  -webkit-box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
+textarea:hover,
 textarea:focus {
   background: rgba(255, 255, 255, 0.4);
-  border-color: rgba(255, 255, 255, 0.6);
-  box-shadow: 0 0 10px rgba(0, 153, 204, 0.5);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+  border-color: #a4d4ff;
 }
