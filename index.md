@@ -48,7 +48,7 @@ Every download, share, and kind word helps me build better experiences for famil
   <img width="95" height="95" alt="image" 
     src="https://github.com/user-attachments/assets/26e84b87-44ce-4885-8e05-126e77067b5c" 
     style="
-         border-radius: 12px;
+         border-radius: 20px;
          border: 2px solid #11bbd1;
          transition: box-shadow 0.3s ease;
        "
