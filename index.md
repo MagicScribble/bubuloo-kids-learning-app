@@ -47,7 +47,7 @@ Every download, share, and kind word helps me build better experiences for famil
 
 🦕
 <a href="https://apps.apple.com/app/id6748695587" target="_blank" aria-label="Download Bubuloo app on the App Store">
-  Bubuloo kids activity book 3–5
+  Bubuloo kids learning games 3+
 </a>
 🦕
 
