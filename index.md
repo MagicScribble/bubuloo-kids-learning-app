@@ -54,7 +54,7 @@ Every download, share, and kind word helps me build better experiences for famil
 
 <a href="https://apps.apple.com/app/id6748695587" target="_blank" style="text-decoration: none;">
   <img width="95" height="95" alt="image" 
-    src="https://github.com/user-attachments/assets/26e84b87-44ce-4885-8e05-126e77067b5c" 
+    src="https://github.com/user-attachments/assets/28050b44-ea6d-47a2-8673-5db7233c5423"
     style="
          border-radius: 20px;
          border: 2px solid #11bbd1;
