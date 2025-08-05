@@ -38,7 +38,7 @@ Every download, share, and kind word helps me build better experiences for famil
   <img width="95" height="95" alt="game image" 
     src="https://github.com/user-attachments/assets/5e0a5a66-d6dd-4936-a9f1-e76a5378129c" 
     style="
-         border-radius: 20px;
+         border-radius: 16px;
          border: 2px solid #11bbd1;
          transition: box-shadow 0.3s ease;
        "
