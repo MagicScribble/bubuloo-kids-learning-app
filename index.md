@@ -35,7 +35,15 @@ Every download, share, and kind word helps me build better experiences for famil
 ## Get the App
 
 <a href="https://apps.apple.com/app/id6747248309" target="_blank" style="text-decoration: none;">
-  <img width="95" height="95" alt="game image" src="https://github.com/user-attachments/assets/5e0a5a66-d6dd-4936-a9f1-e76a5378129c" />
+  <img width="95" height="95" alt="game image" 
+    src="https://github.com/user-attachments/assets/5e0a5a66-d6dd-4936-a9f1-e76a5378129c" 
+    style="
+         border-radius: 20px;
+         border: 2px solid #11bbd1;
+         transition: box-shadow 0.3s ease;
+       "
+       onmouseover="this.style.boxShadow='0 0 12px #11bbd1'"
+       onmouseout="this.style.boxShadow='none'" />
 </a>
 
 🦕
