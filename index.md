@@ -48,7 +48,7 @@ Every download, share, and kind word helps me build better experiences for famil
 
 🦕
 <a href="https://apps.apple.com/app/id6747248309" target="_blank" aria-label="Download Bubuloo app on the App Store">
-  Bubuloo kids activity book 3–5
+  Fun Toddler Games for Kids 2-4
 </a>
 🦕
 
