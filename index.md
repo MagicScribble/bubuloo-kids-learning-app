@@ -66,7 +66,7 @@ Every download, share, and kind word helps me build better experiences for famil
 
 🦕
 <a href="https://apps.apple.com/app/id6748695587" target="_blank" aria-label="Download Bubuloo app on the App Store">
-  Toddler Learning: Maths & Art
+  Kids Learning Preschool Games
 </a>
 🦕
 
