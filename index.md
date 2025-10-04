@@ -91,7 +91,7 @@ If you love the app and want to support development:
 ## Privacy
 
 No ads. No tracking. No data collection.  
-[Read the Privacy Policy]([privacy.md](https://magicscribble.github.io/privacy-policy/))
+[Read the Privacy Policy](https://magicscribble.github.io/privacy-policy/)
 
 ---
 ## Music
