@@ -83,7 +83,7 @@ If you love the app and want to support development:
 
 ## 📬 Contact
 
-[hello@bubuloo.app](mailto:dentin-97.aniline@icloud.com)
+[magicscribble@icloud.com](mailto:magicscribble@icloud.com)
 🐞 Found a bug? [Open an issue](https://magicscribble.github.io/support/)
 
 ---
